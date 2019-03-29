@@ -1,0 +1,4 @@
+cadastrarProposta,valor,nome, email,cpf, dataNascimento, renda, tipoprofissao,profissao,grauinstrucao, conta, cep, numero, complemento,cel, fonecomercial,objemprestimo      
+         ,3000, Eduardo Moises da Silva, duvergara@live.com,37075094866, 07061987,498700,Assalariado,Desenhista,Analfabeto,Banco do Brasil S.A.,08390130,12,321,11964366922,1127531251,Comprar imóvel
+         ,3000, Dhiego Henrique, duvergara@live.com,35918903836, 07061987,498700,Empresário,Piscicultor,Analfabeto,Banco do Brasil S.A.,08390130,12,321,11964366922,1127531251,Comprar imóvel
+         ,3000, Sammuel Eduardo, duvergara@live.com,38767735800, 07061987,498700,Estudante,Estudante,Analfabeto,Banco do Brasil S.A.,08390130,12,321,11964366922,1127531251,Comprar imóvel
